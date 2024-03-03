@@ -1,6 +1,5 @@
 #COPYRIGHT
 #Password Generator
-#written by Sepehr Mohseni
 
 
 
